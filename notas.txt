@@ -1,0 +1,6 @@
+I. Instalación de typescript:
+npm install -g typescript
+tsc --version
+tsc main.ts
+tsc main.ts -w
+tsc -w
